@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmrl24" alt="nmrl24" /></a> </p>
 
+- CURRENTLY I WAS WORKING ON B.TECH MAJOR PROJECT NAMED "BRAILLE BASED IOT HOME AUTOMATION".
 - 🖥️ I've gone through practice on Verilog [VERILOG for Digital Circuits](https://www.linkedin.com/posts/manikanta-raghava-naragam-0498182ba_basic-digital-circuits-by-using-verilog-activity-7281639151878250496-9E2G?utm_source=share&utm_medium=member_desktop)
 
 - 🌱 I’m currently learning **MATLAB**
