@@ -15,6 +15,17 @@
 
 <br/>
 
+<p align="center">
+<a href="#-about-me">About</a> •
+<a href="#-currently-building">Currently Building</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#️-tech-stack">Tech Stack</a> •
+<a href="#-github-stats">GitHub Stats</a> •
+<a href="#-connect-with-me">Contact</a>
+</p>
+
+<br/>
+
 ## 🧑‍💻 About Me
 
 ```yaml
@@ -116,22 +127,44 @@ A set of RTL designs simulated in Xilinx Vivado — **128-bit ALU**, **FSM-based
 
 <br/>
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<th align="left">💻 Languages</th>
+<th align="left">🔧 Hardware Design & EDA</th>
+<th align="left">🖥️ Platforms & Tools</th>
+</tr>
+<tr valign="top">
+<td>
 
-<img src="https://skillicons.dev/icons?i=verilog,c,python,linux,arduino,git,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Verilog%20HDL-800080?style=for-the-badge&logo=chipsafft&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/TCL-3B4E9C?style=for-the-badge&logo=tcl&logoColor=white"/>
 
-<br/><br/>
+</td>
+<td>
 
-<img src="https://img.shields.io/badge/Verilog%20HDL-800080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TCL%20Scripting-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Xilinx%20Vivado-E2231A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux%2FUNIX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-E2231A?style=for-the-badge&logo=xilinx&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/RTL%20Design-0E75B6?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/CMOS%20Design-0E75B6?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/Static%20Timing%20Analysis-0E75B6?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/ASIC%20Physical%20Design-0E75B6?style=for-the-badge"/>
 
-</div>
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Linux%2FUNIX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Arduino%2FESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
