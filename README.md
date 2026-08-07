@@ -2,7 +2,7 @@
 
 # Naragam Manikanta Raghava
 
-### Aspiring VLSI Design Engineer
+### Aspiring VLSI Physical Design Engineer
 
 B.Tech Electronics &amp; Communication Engineering (2026) · Seshadri Rao Gudlavalleru Engineering College · CGPA 8.80/10
 
@@ -98,14 +98,14 @@ RTL designs simulated in Xilinx Vivado — **128-bit ALU**, **FSM-based Elevator
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://img.shields.io/badge/Verilog%20HDL-informational?style=flat-square&color=3ddbd9">
-<img src="https://img.shields.io/badge/Xilinx%20Vivado-informational?style=flat-square&color=3ddbd9">
-<img src="https://img.shields.io/badge/TCL-informational?style=flat-square&color=3ddbd9">
-<img src="https://img.shields.io/badge/Linux%2FUNIX-informational?style=flat-square&color=3ddbd9">
-<img src="https://img.shields.io/badge/C-informational?style=flat-square&color=3ddbd9">
-<img src="https://img.shields.io/badge/Embedded%20C-informational?style=flat-square&color=3ddbd9">
-<img src="https://img.shields.io/badge/Python-informational?style=flat-square&color=3ddbd9">
-<img src="https://img.shields.io/badge/ESP32-informational?style=flat-square&color=3ddbd9">
+<img src="https://img.shields.io/badge/Verilog%20HDL-informational?style=flat-square&color=3bdbd9">
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-informational?style=flat-square&color=4ddbd9">
+<img src="https://img.shields.io/badge/TCL-informational?style=flat-square&color=3ddfd9">
+<img src="https://img.shields.io/badge/Linux%2FUNIX-informational?style=flat-square&color=35dbd9">
+<img src="https://img.shields.io/badge/C-informational?style=flat-square&color=3debd9">
+<img src="https://img.shields.io/badge/Embedded%20C-informational?style=flat-square&color=31dbd9">
+<img src="https://img.shields.io/badge/Python-informational?style=flat-square&color=3d2bd9">
+<img src="https://img.shields.io/badge/ESP32-informational?style=flat-square&color=3ddb79">
 </p>
 
 <br>
