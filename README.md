@@ -1,97 +1,228 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d13,50:161a26,100:0a0d13&height=200&section=header&text=HELLO%20WORLD&fontSize=48&fontColor=3ddbd9&fontAlignY=42&desc=Welcome%20to%20my%20silicon&descAlignY=58&descColor=e8b454&animation=fadeIn" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=220&section=header&text=Naragam%20Manikanta%20Raghava&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20VLSI%20Design%20Engineer%20%7C%20RTL%20%7C%20Physical%20Design&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&multiline=true&width=700&height=80&lines=RTL+Design+%7C+Verilog+HDL+%7C+ASIC+Flow;Digital+Design+%E2%86%92+Floorplan+%E2%86%92+CTS+%E2%86%92+Routing+%E2%86%92+STA;Building+Chips%2C+One+Gate+at+a+Time" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nmrl24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/nmrl24?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
+<img src="https://img.shields.io/badge/B.Tech%20ECE-2026-0e75b6?style=for-the-badge" alt="Batch"/>
+<img src="https://img.shields.io/badge/CGPA-8.80%2F10-00d4ff?style=for-the-badge" alt="CGPA"/>
 
 </div>
 
-<table width="100%">
+<br/>
+
+<p align="center">
+<a href="#-about-me">About</a> •
+<a href="#-currently-building">Currently Building</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#️-tech-stack">Tech Stack</a> •
+<a href="#-github-stats">GitHub Stats</a> •
+<a href="#-connect-with-me">Contact</a>
+</p>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+```yaml
+name:          "Naragam Manikanta Raghava"
+role:          "Aspiring VLSI Design Engineer"
+degree:        "B.Tech, Electronics & Communication Engineering (2026)"
+college:       "Seshadri Rao Gudlavalleru Engineering College"
+cgpa:          "8.80 / 10"
+currently:     "Physical Design Training (8 Months) @ VLSI Guru Institute"
+focus:         ["RTL Design", "Verilog HDL", "CMOS", "STA", "ASIC Backend Flow"]
+fun_fact:      "Slow to start, but once I begin — I'm haunted till I finish it"
+name:       "Naragam Manikanta Raghava"
+role:       "Aspiring VLSI Design Engineer"
+degree:     "B.Tech, Electronics & Communication Engineering (2026)"
+college:    "Seshadri Rao Gudlavalleru Engineering College"
+cgpa:       "8.80 / 10"
+currently:  "Physical Design Training (8 Months) @ VLSI Guru Institute"
+focus:      ["RTL Design", "Verilog HDL", "CMOS", "STA", "ASIC Backend Flow"]
+fun_fact:   "Slow to start, but once I begin — I'm haunted till I finish it"
+```
+
+<br/>
+
+## 🚀 Currently Building
+
+<table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-## 🔬 I'M RAGHAVA!
+**🔭 Physical Design Training — VLSI Guru Institute (8 Months)**
 
-*VLSI Physical Design Engineer (Fresher)*
+Covering the full ASIC **Netlist → GDSII** flow:
 
-I'm a final-year ECE undergraduate with a deep interest in **chip design** — the layer where a Verilog description becomes a working piece of silicon. I enjoy the RTL-to-GDSII flow end to end, and I'm currently sharpening the backend half of it.
-
-- 🎓 B.Tech ECE, **2026 batch** — Seshadri Rao Gudlavalleru Engineering College · **CGPA 8.80/10**
-- ⚡ Currently in **Physical Design Training (8 months)** @ VLSI Guru Institute — Netlist → GDSII
-- 🥇 **Best Project Award**, selected among 271 ECE students, for a Braille-based IoT accessibility system
-- 🧠 I believe every tapeout starts with getting the fundamentals right — CMOS, timing, and clean RTL
-- 💻 Check out my hands-on Verilog/RTL builds on my [GitHub](https://github.com/NMRL24)
-
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=NMRL24&style=for-the-badge&color=161a26&labelColor=161a26&label=PROFILE+VIEWS)](https://github.com/NMRL24)
+- ✅ Digital Design & CMOS Fundamentals
+- ✅ Linux/UNIX & TCL Scripting
+- ⏳ Floorplanning · CTS · Routing · STA · Sign-off *(in progress)*
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="40%" valign="top">
 
-<img width="260" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjM0MCIgdmlld0JveD0iMCAwIDMyMCAzNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImNoaXBCb2R5IiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzFiMjAzMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMxMTE0MWQiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImxlZEdsb3ciIGN4PSI1MCUiIGN5PSI1MCUiIHI9IjUwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMzZGRiZDkiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzNkZGJkOSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogIDwvZGVmcz4KCiAgPCEtLSBiYWNrZ3JvdW5kIGNpcmN1aXQgdHJhY2VzIC0tPgogIDxnIHN0cm9rZT0iIzNkZGJkOSIgc3Ryb2tlLXdpZHRoPSIyIiBvcGFjaXR5PSIwLjM1IiBmaWxsPSJub25lIj4KICAgIDxwYXRoIGQ9Ik0xMCA2MCBINzAgVjMwIEgxMzAiLz4KICAgIDxwYXRoIGQ9Ik0xMCAyODAgSDYwIFYzMTAgSDE1MCIvPgogICAgPHBhdGggZD0iTTMxMCA3MCBIMjUwIFY0MCBIMTkwIi8+CiAgICA8cGF0aCBkPSJNMzEwIDI2MCBIMjYwIFYzMDAgSDE4MCIvPgogICAgPGNpcmNsZSBjeD0iMTMwIiBjeT0iMzAiIHI9IjQiIGZpbGw9IiMzZGRiZDkiLz4KICAgIDxjaXJjbGUgY3g9IjE5MCIgY3k9IjQwIiByPSI0IiBmaWxsPSIjM2RkYmQ5Ii8+CiAgICA8Y2lyY2xlIGN4PSIxNTAiIGN5PSIzMTAiIHI9IjQiIGZpbGw9IiMzZGRiZDkiLz4KICAgIDxjaXJjbGUgY3g9IjE4MCIgY3k9IjMwMCIgcj0iNCIgZmlsbD0iIzNkZGJkOSIvPgogIDwvZz4KCiAgPCEtLSBhbnRlbm5hIC0tPgogIDxsaW5lIHgxPSIxNjAiIHkxPSI3MCIgeDI9IjE2MCIgeTI9IjQwIiBzdHJva2U9IiNlOGI0NTQiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPGNpcmNsZSBjeD0iMTYwIiBjeT0iMzQiIHI9IjkiIGZpbGw9InVybCgjbGVkR2xvdykiLz4KICA8Y2lyY2xlIGN4PSIxNjAiIGN5PSIzNCIgcj0iNSIgZmlsbD0iI2U4YjQ1NCIvPgoKICA8IS0tIHBpbnM6IHRvcCAtLT4KICA8ZyBmaWxsPSIjZThiNDU0Ij4KICAgIDxyZWN0IHg9Ijk1IiB5PSI2MiIgd2lkdGg9IjgiIGhlaWdodD0iMTgiLz4KICAgIDxyZWN0IHg9IjExOCIgeT0iNjIiIHdpZHRoPSI4IiBoZWlnaHQ9IjE4Ii8+CiAgICA8cmVjdCB4PSIxOTYiIHk9IjYyIiB3aWR0aD0iOCIgaGVpZ2h0PSIxOCIvPgogICAgPHJlY3QgeD0iMjE5IiB5PSI2MiIgd2lkdGg9IjgiIGhlaWdodD0iMTgiLz4KICA8L2c+CiAgPCEtLSBwaW5zOiBib3R0b20gLS0+CiAgPGcgZmlsbD0iI2U4YjQ1NCI+CiAgICA8cmVjdCB4PSI5NSIgeT0iMjU4IiB3aWR0aD0iOCIgaGVpZ2h0PSIxOCIvPgogICAgPHJlY3QgeD0iMTE4IiB5PSIyNTgiIHdpZHRoPSI4IiBoZWlnaHQ9IjE4Ii8+CiAgICA8cmVjdCB4PSIxOTYiIHk9IjI1OCIgd2lkdGg9IjgiIGhlaWdodD0iMTgiLz4KICAgIDxyZWN0IHg9IjIxOSIgeT0iMjU4IiB3aWR0aD0iOCIgaGVpZ2h0PSIxOCIvPgogIDwvZz4KICA8IS0tIHBpbnM6IGxlZnQgLS0+CiAgPGcgZmlsbD0iI2U4YjQ1NCI+CiAgICA8cmVjdCB4PSI2MiIgeT0iOTUiIHdpZHRoPSIxOCIgaGVpZ2h0PSI4Ii8+CiAgICA8cmVjdCB4PSI2MiIgeT0iMTE4IiB3aWR0aD0iMTgiIGhlaWdodD0iOCIvPgogICAgPHJlY3QgeD0iNjIiIHk9IjE5NiIgd2lkdGg9IjE4IiBoZWlnaHQ9IjgiLz4KICAgIDxyZWN0IHg9IjYyIiB5PSIyMTkiIHdpZHRoPSIxOCIgaGVpZ2h0PSI4Ii8+CiAgPC9nPgogIDwhLS0gcGluczogcmlnaHQgLS0+CiAgPGcgZmlsbD0iI2U4YjQ1NCI+CiAgICA8cmVjdCB4PSIyNDAiIHk9Ijk1IiB3aWR0aD0iMTgiIGhlaWdodD0iOCIvPgogICAgPHJlY3QgeD0iMjQwIiB5PSIxMTgiIHdpZHRoPSIxOCIgaGVpZ2h0PSI4Ii8+CiAgICA8cmVjdCB4PSIyNDAiIHk9IjE5NiIgd2lkdGg9IjE4IiBoZWlnaHQ9IjgiLz4KICAgIDxyZWN0IHg9IjI0MCIgeT0iMjE5IiB3aWR0aD0iMTgiIGhlaWdodD0iOCIvPgogIDwvZz4KCiAgPCEtLSBjaGlwIGJvZHkgLS0+CiAgPHJlY3QgeD0iODAiIHk9IjgwIiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcng9IjIyIiBmaWxsPSJ1cmwoI2NoaXBCb2R5KSIgc3Ryb2tlPSIjM2RkYmQ5IiBzdHJva2Utd2lkdGg9IjIuNSIvPgoKICA8IS0tIG5vdGNoIChvcmllbnRhdGlvbiBtYXJrZXIsIGxpa2UgYSByZWFsIElDKSAtLT4KICA8cGF0aCBkPSJNMTQwIDgwIGEyMCAyMCAwIDAgMCA0MCAwIFoiIGZpbGw9IiMwYTBkMTMiIHN0cm9rZT0iIzNkZGJkOSIgc3Ryb2tlLXdpZHRoPSIyIi8+CgogIDwhLS0gZmFjZSAtLT4KICA8Y2lyY2xlIGN4PSIxMjgiIGN5PSIxNTUiIHI9IjE1IiBmaWxsPSIjZTllZGYzIi8+CiAgPGNpcmNsZSBjeD0iMTkyIiBjeT0iMTU1IiByPSIxNSIgZmlsbD0iI2U5ZWRmMyIvPgogIDxjaXJjbGUgY3g9IjEzMSIgY3k9IjE1OCIgcj0iNyIgZmlsbD0iIzExMTQxZCIvPgogIDxjaXJjbGUgY3g9IjE5NSIgY3k9IjE1OCIgcj0iNyIgZmlsbD0iIzExMTQxZCIvPgogIDxjaXJjbGUgY3g9IjEzMyIgY3k9IjE1NSIgcj0iMi40IiBmaWxsPSIjZmZmZmZmIi8+CiAgPGNpcmNsZSBjeD0iMTk3IiBjeT0iMTU1IiByPSIyLjQiIGZpbGw9IiNmZmZmZmYiLz4KCiAgPHBhdGggZD0iTTEyOCAxOTAgUTE2MCAyMTIgMTkyIDE5MCIgc3Ryb2tlPSIjM2RkYmQ5IiBzdHJva2Utd2lkdGg9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgoKICA8IS0tIGNoZWVrcyAtLT4KICA8Y2lyY2xlIGN4PSIxMTIiIGN5PSIxNzgiIHI9IjciIGZpbGw9IiNlOGI0NTQiIG9wYWNpdHk9IjAuMzUiLz4KICA8Y2lyY2xlIGN4PSIyMDgiIGN5PSIxNzgiIHI9IjciIGZpbGw9IiNlOGI0NTQiIG9wYWNpdHk9IjAuMzUiLz4KCiAgPCEtLSBsaXR0bGUgZGllIGxhYmVsIC0tPgogIDx0ZXh0IHg9IjE2MCIgeT0iMjI4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjExIiBmaWxsPSIjNTY1ZDcwIj5SVEzihpJHRFNJSTwvdGV4dD4KCiAgPCEtLSBob2xkaW5nIGEgdGlueSBwcm9iZS93YW5kIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIzMiwxOTApIHJvdGF0ZSgyOCkiPgogICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjYiIGhlaWdodD0iNDYiIHJ4PSIzIiBmaWxsPSIjOGE5MmE2Ii8+CiAgICA8Y2lyY2xlIGN4PSIzIiBjeT0iLTQiIHI9IjciIGZpbGw9IiMzZGRiZDkiLz4KICA8L2c+CiAgPGVsbGlwc2UgY3g9IjI0OCIgY3k9IjIwNSIgcng9IjEwIiByeT0iOSIgZmlsbD0iI2U5ZWRmMyIvPgo8L3N2Zz4K" alt="chip mascot"/>
+```
+```text
+RTL → Synthesis → Floorplan
+→ Placement → CTS
+→ Routing → STA
+→ Sign-off → GDSII
+```
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-## 🚀 Currently Building
+## 🏆 Highlight
 
-**Physical Design Training** · VLSI Guru Institute · 8-month program covering the full ASIC backend flow:
+<div align="center">
 
-```
-RTL → Synthesis → Floorplan → Placement → CTS → Routing → STA → Sign-off → GDSII
-```
+> 🥇 **Best Project Award** — awarded among **271 ECE students**
+> for the final-year project **"Braille-Based IoT Home Automation for Multi-Disability Empowerment"**
 
-| Module | Status |
-|---|:---:|
-| Digital Design & CMOS Fundamentals | ✅ Complete |
-| Linux/UNIX & TCL Scripting | ✅ Complete |
-| Floorplanning, CTS, Routing, STA & Sign-off | ⏳ In progress |
+</div>
 
-<br>
+<br/>
 
 ## 💼 Featured Projects
 
 <table>
 <tr>
-<td width="34%"><strong>Braille-Based IoT Home Automation</strong></td>
-<td width="46%">Dual-ESP32 assistive system enabling home automation for visually and speech-impaired users. Led a 4-member team from design through deployment. 🥇 Best Project Award, among 271 ECE students.</td>
-<td width="20%"><code>ESP32</code> <code>Embedded C</code> <code>IoT</code><br><a href="https://github.com/NMRL24/Braille-Based-IoT-Home-Automation-for-Multi-Disability-Empowerment">Repository →</a></td>
+<td width="50%">
+
+### ♿ [Braille-Based IoT Home Automation](https://github.com/NMRL24/Braille-Based-IoT-Home-Automation-for-Multi-Disability-Empowerment)
+
+Led a 4-member team building a dual-ESP32 assistive system enabling home automation for visually and speech-impaired users.
+
+`ESP32` `IoT` `Embedded C` `Accessibility`
+
+</td>
+<td width="50%">
+
+### 🚗 [Vehicle Speed Monitoring & Overspeed Alert](https://github.com/NMRL24/Vehicle-Speed-Monitoring-Overspeed-Alert-System)
+
+Real-time vehicle speed monitoring and overspeed alert system built on ESP32, integrated with the Blynk IoT platform.
+
+`ESP32` `Blynk` `Real-Time Systems`
+
+</td>
 </tr>
 <tr>
-<td><strong>Vehicle Speed Monitoring & Overspeed Alert</strong></td>
-<td>Real-time speed monitoring and overspeed alert system on ESP32, integrated with the Blynk IoT platform for live tracking.</td>
-<td><code>ESP32</code> <code>Blynk</code><br><a href="https://github.com/NMRL24/Vehicle-Speed-Monitoring-Overspeed-Alert-System">Repository →</a></td>
-</tr>
-<tr>
-<td><strong>Verilog HDL Projects Collection</strong></td>
-<td>RTL designs simulated in Xilinx Vivado: 128-bit ALU, FSM-based elevator controller, vending machine controller, digital clock, and sequence detector.</td>
-<td><code>Verilog</code> <code>Vivado</code> <code>FSM</code><br><a href="https://github.com/NMRL24/Verilog-HDL-Projects">Repository →</a></td>
+<td width="50%" colspan="2">
+
+### 🖥️ [Verilog HDL Projects Collection](https://github.com/NMRL24/Verilog-HDL-Projects)
+
+A set of RTL designs simulated in Xilinx Vivado — **128-bit ALU**, **FSM-based Elevator Controller**, **Vending Machine Controller**, **Digital Clock**, and **101 Sequence Detector**.
+
+`Verilog HDL` `RTL Design` `Xilinx Vivado` `FSM`
+
+</td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-## 🛠️ Tech Stack
-
-**Hardware Design** — Verilog HDL · RTL Design · CMOS · Digital Logic Design
-**Physical Design** — Floorplanning · CTS · Routing · STA · TCL Scripting
-**Tools** — Xilinx Vivado · Linux/UNIX
-**Embedded & Software** — Embedded C · C · Python · ESP32
-
-<br>
+## 🎓 Certifications
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Infosys%20Springboard-Digital%20Electronics-1B5E20?style=for-the-badge&logo=infosys&logoColor=white"/>
+<img src="https://img.shields.io/badge/Infosys%20Springboard-IoT%20%26%20Electronics-1B5E20?style=for-the-badge&logo=infosys&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+<th align="left">💻 Languages</th>
+<th align="left">🔧 Hardware Design & EDA</th>
+<th align="left">🖥️ Platforms & Tools</th>
+</tr>
+<tr valign="top">
+<td>
+
+<img src="https://img.shields.io/badge/Verilog%20HDL-800080?style=for-the-badge&logo=chipsafft&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/TCL-3B4E9C?style=for-the-badge&logo=tcl&logoColor=white"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-E2231A?style=for-the-badge&logo=xilinx&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/RTL%20Design-0E75B6?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/CMOS%20Design-0E75B6?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/Static%20Timing%20Analysis-0E75B6?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/ASIC%20Physical%20Design-0E75B6?style=for-the-badge"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Linux%2FUNIX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Arduino%2FESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nmrl24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="nmrl24 stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmrl24&layout=compact&theme=tokyonight&hide_border=true" alt="nmrl24 top langs" width="42%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nmrl24&theme=tokyonight&hide_border=true" alt="nmrl24 streak"/>
+
+<br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=nmrl24&theme=darkhub&no-frame=true&row=1&column=7" alt="nmrl24 trophies"/>
+</a>
+
+</div>
+
+<br/>
+
 ## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/naragammanikantaraghava/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:manikantaraghavanaragam@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 💬 **Ask me about:** Verilog HDL · RTL Design · Digital Electronics · C · Embedded C · Python
 
-[![GitHub](https://img.shields.io/badge/GitHub-NMRL24-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NMRL24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](#)
+⚡ *Fun fact: I'm a little slow to start, but once I begin something, I'm haunted till I finish it.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d13,50:161a26,100:0a0d13&height=120&section=footer" alt="footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0e75b6&height=100&section=footer" width="100%"/>
 
 </div>
