@@ -1,14 +1,14 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name:       "Naragam Manikanta Raghava"
-role:       "Aspiring VLSI Design Engineer"
-degree:     "B.Tech, Electronics & Communication Engineering (2026)"
-college:    "Seshadri Rao Gudlavalleru Engineering College"
-cgpa:       "8.80 / 10"
-currently:  "Physical Design Training (8 Months) @ VLSI Guru Institute"
-focus:      ["RTL Design", "Verilog HDL", "CMOS", "STA", "ASIC Backend Flow"]
-fun_fact:   "Slow to start, but once I begin — I'm haunted till I finish it"
+name:          "Naragam Manikanta Raghava"
+role:          "Aspiring VLSI Design Engineer"
+degree:        "B.Tech, Electronics & Communication Engineering (2026)"
+college:       "Seshadri Rao Gudlavalleru Engineering College"
+cgpa:          "8.80 / 10"
+currently:     "Physical Design Training (8 Months) @ VLSI Guru Institute"
+focus:         ["RTL Design", "Verilog HDL", "CMOS", "STA", "ASIC Backend Flow"]
+fun_fact:      "Slow to start, but once I begin — I'm haunted till I finish it"
 ```
 
 ## 🚀 Currently Building
@@ -21,7 +21,7 @@ Covering the full ASIC **Netlist → GDSII** flow:
 - ✅ Linux/UNIX & TCL Scripting
 - ⏳ Floorplanning · CTS · Routing · STA · Sign-off *(in progress)*
 
-```text
+```
 RTL → Synthesis → Floorplan
    → Placement → CTS
    → Routing → STA
